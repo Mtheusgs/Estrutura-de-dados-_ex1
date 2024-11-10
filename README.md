@@ -1,1 +1,1 @@
-# Repositório para exercicio de estrutura de dados 1
+# Repositório para exercicios de estrutura de dados 1
